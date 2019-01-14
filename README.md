@@ -11,4 +11,4 @@ Update from local, and on branch_1
 Update from local again, and on branch_1
 
 
-1111
+1111 local updated/0987 remote updated
